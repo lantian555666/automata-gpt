@@ -1,4 +1,4 @@
-name: Type Checking
+name: types
 
 on: [pull_request]
 

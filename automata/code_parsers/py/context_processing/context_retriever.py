@@ -106,7 +106,7 @@ class InterfaceContextComponent(BaseContextComponent):
         ast_object: AST,
         skip_private: bool = True,
         include_docstrings: bool = True,
-        interface_header: str = "Interface:",
+        interface_header: str = "",
         class_header: str = "class ",
         recursion_depth: int = 0,
         processed_objects: Optional[Set[int]] = None,

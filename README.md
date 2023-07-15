@@ -1,24 +1,40 @@
 # Automata: The Future is Self-Written
 
+**Automata is a bottom-up coding agent.**
+
 ![Banner](https://github.com/emrgnt-cmplxty/Automata/assets/68796651/61fe3c33-9b7a-4c1b-9726-a77140476b83)
 
 [![codecov](https://codecov.io/github/emrgnt-cmplxty/Automata/branch/main/graph/badge.svg?token=ZNE7RDUJQD)](https://codecov.io/github/emrgnt-cmplxty/Automata)
-  <a href="https://github.com/emrgnt-cmplxty/automata/blob/main/LICENSE" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=license&message=Apache 2.0&color=white" alt="License">
-  </a> |
-[![Documentation Status](https://readthedocs.org/projects/automata/badge/?version=latest)](https://automata.readthedocs.io/en/latest/?badge=latest)
+[![lint](https://github.com/emrgnt-cmplxty/automata/actions/workflows/check-black.yml/badge.svg)](https://github.com/emrgnt-cmplxty/automata/actions/workflows/check-black.yml)
+[![tests](https://github.com/emrgnt-cmplxty/automata/actions/workflows/run_tests.yml/badge.svg)](https://github.com/emrgnt-cmplxty/automata/actions/workflows/run_tests.yml)
+
 [![GitHub star chart](https://img.shields.io/github/stars/emrgnt-cmplxty/Automata?style=social)](https://star-history.com/#emrgnt-cmplxty/Automata)
 [![Discord](https://img.shields.io/discord/1120774652915105934?logo=discord)](https://discord.gg/j9GxfbxqAe)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ocolegro?style=social)](https://twitter.com/ocolegro)
-
+  <a href="https://github.com/emrgnt-cmplxty/automata/blob/main/LICENSE" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=license&message=Apache 2.0&color=white" alt="License">
+  </a> 
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/emrgnt-cmplxty/Automata)
+**`Documentation`** |
+------------------- |
+[![Documentation](https://readthedocs.org/projects/automata/badge/?version=latest)](https://automata.readthedocs.io/en/latest/?badge=latest) |
 
-**Automata's objective is to evolve into a fully autonomous, self-programming Artificial Intelligence system**.
 
-This project is inspired by the theory that code is essentially a form of memory, and when furnished with the right tools, AI can evolve real-time capabilities which can potentially lead to the creation of AGI. The word automata comes from the Greek word αὐτόματος, denoting "self-acting, self-willed, self-moving,", and [Automata theory](https://en.wikipedia.org/wiki/Automata_theory) is the study of abstract machines and [automata](https://en.wikipedia.org/wiki/Automaton), as well as the computational problems that can be solved using them. More information follows below.
+The overarching goal for Automata is its evolution into a completely autonomous system. This is a long-term goal, and the project is currently in its infancy. The current focus is on building a foundation for the system, which includes the following:
+
+1. Automatic Document Generation and Refreshing
+2. Automatic Unit Test Maintenance
+3. GitHub Issue Generation and Solving
+4. Automatic Code Generation
+
 
 ---
+
+## Quick Install
+
+pip install automata 
+
 
 ## Demo
 
@@ -196,9 +212,13 @@ open-source software development.
 
 ## Future
 
+This project is inspired by the theory that code is essentially a form of memory, and when furnished with the right tools, AI can evolve real-time capabilities which can potentially lead to the creation of AGI. The word automata comes from the Greek word αὐτόματος, denoting "self-acting, self-willed, self-moving,", and [Automata theory](https://en.wikipedia.org/wiki/Automata_theory) is the study of abstract machines and [automata](https://en.wikipedia.org/wiki/Automaton), as well as the computational problems that can be solved using them. More information follows below.
+
 The ultimate goal of the Automata project is to achieve a level of proficiency where it can independently design, write, test, and refine complex software systems. This includes the ability to understand and navigate large codebases, reason about software architecture, optimize performance, and even invent new algorithms or data structures when necessary.
 
 While the complete realization of this goal is likely to be a complex and long-term endeavor, each incremental step towards it not only has the potential to dramatically increase the productivity of human programmers, but also to shed light on fundamental questions in AI and computer science.
+
+
 
 ## License
 
